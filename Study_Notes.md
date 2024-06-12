@@ -4,6 +4,10 @@ Part 1: C Fundamentals
 
 Chapter 1: Running Hello, World
 
+    **Writing comments**
+
+
+
 Chapter 2: Understanding Program Structure
 
 Chapter 3: Working with Basic Data Types
