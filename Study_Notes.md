@@ -12,10 +12,10 @@ Packt Learn C Programming
 C-style comment. */
 
 /*
-* (3) A very common way to
-* format a multi-line
-* C-Style comment.
-*/
+ * (3) A very common way to
+ * format a multi-line
+ * C-Style comment.
+ */
 
 /* (4) C-style comments can appear almost anywhere. */
 
