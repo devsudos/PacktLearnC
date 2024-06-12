@@ -35,6 +35,11 @@ C-style comment. */
 // even more // after the first // but they will be
 // ignored because they are all in the comment.
 
+``` Comments #1 - #6 are old-style C comments```
+``` Comments #7 - #10 are new-style comments which have been adopted from C++```
+
+
+
 Chapter 2: Understanding Program Structure
 
 Chapter 3: Working with Basic Data Types
