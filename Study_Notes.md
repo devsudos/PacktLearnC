@@ -36,6 +36,7 @@ C-style comment. */
 // ignored because they are all in the comment.
 
 ``` Comments #1 - #6 are old-style C comments```
+
 ``` Comments #7 - #10 are new-style comments which have been adopted from C++```
 
 
