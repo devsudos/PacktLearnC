@@ -1,10 +1,10 @@
 Packt Learn C Programming
 
-# H1 Part 1: C Fundamentals
+# Part 1: C Fundamentals
 
-## H2 Chapter 1: Running Hello, World
+## Chapter 1: Running Hello, World
 
-### H3 Writing comments
+### Writing comments
 
 /* (1) A single-line C-style comment. */
 
