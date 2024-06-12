@@ -1,12 +1,39 @@
 Packt Learn C Programming
 
-Part 1: C Fundamentals
+# H1 Part 1: C Fundamentals
 
-Chapter 1: Running Hello, World
+## H2 Chapter 1: Running Hello, World
 
-    **Writing comments**
+### H3 Writing comments
 
+/* (1) A single-line C-style comment. */
 
+/* (2) A multi-line
+C-style comment. */
+
+/*
+ * (3) A very common way to
+ * format a multi-line
+ * C-Style comment.
+ */
+
+/* (4) C-style comments can appear almost anywhere. */
+
+/*(5)*/ printf( /* Say hello. */ "Hello, world!\n" );
+
+/*(6)*/ printf( "Hello, world!\n" ); /* Yay! */
+
+// (7) A C++ style comment (terminated by End-of-Line).
+
+//
+// (9) A more common way
+// of commenting with multi-line
+// C++ style comments
+//
+
+// (10) anything can appear after //, even /* ... */ and
+// even more // after the first // but they will be
+// ignored because they are all in the comment.
 
 Chapter 2: Understanding Program Structure
 
